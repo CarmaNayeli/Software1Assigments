@@ -1,6 +1,5 @@
 # import library to access random numbers
 import random
-from math import pi
 
 # set the total number of random points (N) to user input
 N = int(input("Enter the number of random points to generate: "))
