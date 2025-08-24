@@ -10,5 +10,5 @@ for i in range(0,5):
 
 # print each city in the list in order of addition
 print("The cities you entered:")
-for i in range(0,5):
-    print(cities[i])
+for i in cities:
+    print(i)
